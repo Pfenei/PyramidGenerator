@@ -1,0 +1,13 @@
+C:\Users\cupca\source\repos\Assesment9\bin\Debug\netcoreapp3.1\Assesment9.exe
+C:\Users\cupca\source\repos\Assesment9\bin\Debug\netcoreapp3.1\Assesment9.deps.json
+C:\Users\cupca\source\repos\Assesment9\bin\Debug\netcoreapp3.1\Assesment9.runtimeconfig.json
+C:\Users\cupca\source\repos\Assesment9\bin\Debug\netcoreapp3.1\Assesment9.runtimeconfig.dev.json
+C:\Users\cupca\source\repos\Assesment9\bin\Debug\netcoreapp3.1\Assesment9.dll
+C:\Users\cupca\source\repos\Assesment9\bin\Debug\netcoreapp3.1\Assesment9.pdb
+C:\Users\cupca\source\repos\Assesment9\obj\Debug\netcoreapp3.1\Assesment9.AssemblyInfoInputs.cache
+C:\Users\cupca\source\repos\Assesment9\obj\Debug\netcoreapp3.1\Assesment9.AssemblyInfo.cs
+C:\Users\cupca\source\repos\Assesment9\obj\Debug\netcoreapp3.1\Assesment9.csproj.CoreCompileInputs.cache
+C:\Users\cupca\source\repos\Assesment9\obj\Debug\netcoreapp3.1\Assesment9.dll
+C:\Users\cupca\source\repos\Assesment9\obj\Debug\netcoreapp3.1\Assesment9.pdb
+C:\Users\cupca\source\repos\Assesment9\obj\Debug\netcoreapp3.1\Assesment9.genruntimeconfig.cache
+C:\Users\cupca\source\repos\Assesment9\obj\Debug\netcoreapp3.1\Assesment9.csprojAssemblyReference.cache
